@@ -1,4 +1,34 @@
 
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
+## My working projects
+
+ - [Jaloliddin-Baxodirov](https://clientsub.github.io/Jaloliddin-Baxodirov/)
+ - [quiz-app](https://github.com/Baxodirovuz/QuizApp.git)
+ - [click-app](https://github.com/Baxodirovuz/Click-example.git)
+ - [projectdb](https://github.com/Baxodirovuz/ProjectDb.git)
+
+
+## Authors
+
+- [@Baxodirovuz](https://www.github.com/Baxodirovuz)
+- [@clientsub](https://www.github.com/clientsub)
+
+
+
+## Life test
+
+```bash
+  (person) -> {
+   while(person.isAlive())
+    beLearned(); 
+   };
+```
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Baxodirovuz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baxodirovuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Baxodirovuz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Baxodirovuz) 
 
@@ -11,11 +41,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=clientsub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Baxodirovuz)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=clientsub&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
